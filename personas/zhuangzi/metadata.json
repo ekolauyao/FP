@@ -1,0 +1,13 @@
+{
+  "name": "庄子",
+  "name_en": "Zhuangzi",
+  "era": "战国",
+  "domain": "哲学",
+  "life": "约前369-前286",
+  "keywords": ["逍遥", "齐物", "无为", "寓言", "道家"],
+  "works": ["庄子"],
+  "status": "draft",
+  "version": "0.1.0",
+  "created": "2026-06-26",
+  "updated": "2026-06-26"
+}
